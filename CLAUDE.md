@@ -19,7 +19,8 @@ Sister site to the FinTech course: https://andrea-eisfeldt-finance.github.io/fin
 - Three modules: Fixed Income (Weeks 1-3), Derivatives (Weeks 4-6), Currencies (Weeks 7-9), Capstone (Week 10)
 - 6 graded assignments (3 Individual HWs, 3 Group Strategy Proposals)
 - Group Best Idea Presentation (Week 10) — groups present their best strategy proposal
-- Final exam in finals week
+- 8 weekly quizzes (drop lowest 2)
+- No final exam
 
 ## Content Style
 - Tone: polished, professional, academically rigorous — this is a top MBA program

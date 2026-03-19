@@ -25,8 +25,8 @@ nav_order: 2
 
 | | |
 |---|---|
-| **Teaching Assistant** | TBA |
-| **Email** | TBA |
+| **Teaching Assistant** | Junyu Zhang |
+| **Email** | Junyu.zhang.phd@anderson.ucla.edu |
 | **Office** | TBA |
 | **Office Hours** | TBA |
 
@@ -35,7 +35,7 @@ nav_order: 2
 | | |
 |---|---|
 | **Day & Time** | Thursdays 4:10–7:00pm (see schedule for specific dates) |
-| **Location** | TBD |
+| **Location** | UCLA Anderson |
 
 ## Pre-requisites
 
@@ -93,30 +93,14 @@ This course will be graded using the following weighted percentages for each of 
 
 | Assignments | % of Grade |
 |---|---|
-| Individual Assignments | 47% |
-| Group Assignments | 30% |
-| Final Exam | 35% |
-| Participation | 5% |
+| Individual HWs (equally weighted) | 30% |
+| Group Assignments (equally weighted) | 40% |
+| 8 Quizzes (drop lowest 2) | 20% |
+| Class Participation | 10% |
 
 ### Grades
 
 Your overall course grade will be determined by how your performance on graded assignments ranks in comparison with other students in the class according to the grade distribution model at Anderson. Note that courses in which an overall grade of C is received must be offset by higher grades in the same term for students to remain in good academic standing at UCLA. A grade of C- or below in a core class must be retaken.
-
-| Letter Grade | Percentage |
-|---|---|
-| A+ | 97.0% – 100% |
-| A | 93.0% – 96.99% |
-| A- | 90.0% – 92.99% |
-| B+ | 87.0% – 89.99% |
-| B | 83.0% – 86.99% |
-| B- | 80.0% – 82.99% |
-| C+ | 77.0% – 79.99% |
-| C | 73.0% – 76.99% |
-| C- | 70.0% – 72.99% |
-| D+ | 67.0% – 69.99% |
-| D | 63.0% – 66.99% |
-| D- | 60.0% – 62.99% |
-| F | < 60% |
 
 ## Assignment Descriptions
 
@@ -124,15 +108,11 @@ Your overall course grade will be determined by how your performance on graded a
 
 ### Graded Assignments
 
-1. **Individual HW 1** (Due Week 3, 30 points) — Analytical assignment pricing bonds and performing bond risk attribution. This assignment will use real-world parameters and workhorse bond pricing models.
-2. **Group Strategy Proposal 1** (Due Week 4, 30 points) — Fixed income investment strategy proposal.
-3. **Individual HW 2** (Due Week 6, 30 points) — Analytical assignment analyzing common option and futures strategy payoffs and pricing. Calibrated examples will be used to compute standard derivative strategy payoffs and prices. Data will be pulled from Bloomberg.
-4. **Group Strategy Proposal 2** (Due Week 7, 30 points) — Derivatives investment strategy proposal.
-5. **Individual HW 3** (Due Week 9, 30 points) — Analytical assignment assessing quantitative examples of the links between inflation, interest rates, and foreign exchange rates. Parity relationships including purchasing power parity, covered and uncovered interest rate parity, and related "carry trades" will be computed using current data from the OECD, Bloomberg, and Thomson Reuters.
-6. **Group Strategy Proposal 3** (Due Week 10, 30 points) — International investment strategy proposal.
+1. **Individual HW 1** (Due Week 3) — Analytical assignment pricing bonds and performing bond risk attribution. This assignment will use real-world parameters and workhorse bond pricing models.
+2. **Group Strategy Proposal 1: Bond Strategy** (Due Week 4) — Fixed income investment strategy proposal.
+3. **Individual HW 2** (Due Week 6) — Analytical assignment analyzing common option and futures strategy payoffs and pricing. Calibrated examples will be used to compute standard derivative strategy payoffs and prices. Data will be pulled from Bloomberg.
+4. **Group Strategy Proposal 2: Options/Futures/Swaps** (Due Week 7) — Derivatives investment strategy proposal.
+5. **Individual HW 3** (Due Week 9) — Analytical assignment assessing quantitative examples of the links between inflation, interest rates, and foreign exchange rates. Parity relationships including purchasing power parity, covered and uncovered interest rate parity, and related "carry trades" will be computed using current data from the OECD, Bloomberg, and Thomson Reuters.
+6. **Group Strategy Proposal 3: International Strategy** (Due Week 10) — International investment strategy proposal.
 7. **Group Best Idea Presentation** (Week 10, in-class) — Groups present their choice for the best of their three strategy proposals.
-
-### Exams
-
-- **Final Exam** (Finals Week, 200 points) — Comprehensive exam covering all course material.
 

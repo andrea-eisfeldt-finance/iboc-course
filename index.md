@@ -41,16 +41,14 @@ This class can be a jumping off point for full-quarter classes in fixed income, 
 | [9]({{ '/weeks/week-09.html' | relative_url }}) | May 29 | Carry Trades & Macro Bets | Individual HW 3: FX & Parity Relationships |
 | [10]({{ '/weeks/week-10.html' | relative_url }}) | June 5 | Best Idea Presentations | Group Strategy Proposal 3: International Strategy |
 
-**Final Exam:** Finals Week (200 points)
-
 ## Grading
 
 | Component | Weight |
 |-----------|--------|
-| Individual Assignments | 47% |
-| Group Assignments | 30% |
-| Final Exam | 35% |
-| Participation | 5% |
+| Individual HWs (equally weighted) | 30% |
+| Group Assignments (equally weighted) | 40% |
+| 8 Quizzes (drop lowest 2) | 20% |
+| Class Participation | 10% |
 
 ## Course Materials
 
