@@ -1,0 +1,26 @@
+title: "MGMT 298 — Investing in Bonds, Options, and Currencies"
+description: "UCLA Anderson School of Management | Spring 2026 | Professor Andrea Eisfeldt"
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://andrea-eisfeldt-finance.github.io"
+baseurl: "/iboc-course"
+
+color_scheme: ucla
+
+nav_sort: order
+
+search_enabled: true
+search.heading_level: 3
+
+heading_anchor: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "MGMT 298 &mdash; UCLA Anderson School of Management &mdash; Spring 2026"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CLAUDE.md
