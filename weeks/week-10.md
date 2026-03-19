@@ -1,22 +1,16 @@
 ---
 layout: default
-title: "Week 10: Capstone — Pershing Square's Pandemic Trade"
+title: "Week 10: Best Idea Presentations"
 parent: Weekly Schedule
 nav_order: 10
 ---
 
-# Week 10 — June 5: Capstone — Pershing Square's Pandemic Trade
+# Week 10 — June 5: Best Idea Presentations
 
-**Topics:** Case discussion integrating bonds, options, and currencies concepts
+**Topics:** Group presentations of best strategy proposals
 
-**Assignment Due:** HW6 — International Investment Strategy Proposal (30 points, group)
+**Assignment Due:** Group Strategy Proposal 3 — International Investment Strategy Proposal (30 points)
 
-## Capstone Case
+## Best Idea Presentations
 
-**Pershing Square's Pandemic Trade (A)** — Harvard Business School 9-222-007
-
-*In February 2020, Bill Ackman's Pershing Square Capital Management made a massive hedging bet using credit default swaps (CDS) — spending $27 million in premiums to protect against a market downturn as COVID-19 spread. The position ultimately returned $2.6 billion in just three weeks, a nearly 100x return. This case integrates fixed income, derivatives, and macro concepts from the entire course.*
-
-## Discussion Questions
-
-*To be posted prior to class.*
+Each group will select the best of their three strategy proposals (fixed income, derivatives, or international) and present it to the class. Presentations should cover the investment thesis, supporting data and analysis, risk management, and expected performance.

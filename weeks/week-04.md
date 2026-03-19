@@ -9,7 +9,7 @@ nav_order: 4
 
 **Topics:** Derivatives overview, forwards and futures, options payoffs
 
-**Assignment Due:** HW2 — Fixed Income Investment Strategy Proposal (30 points, group)
+**Assignment Due:** Group Strategy Proposal 1 — Fixed Income Investment Strategy Proposal (30 points)
 
 ## Pre-class Reading
 

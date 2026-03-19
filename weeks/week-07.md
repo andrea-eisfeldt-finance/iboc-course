@@ -9,7 +9,7 @@ nav_order: 7
 
 **Topics:** Currencies overview, macro situation, central banking and balance of payments
 
-**Assignment Due:** HW4 — Derivatives Investment Strategy Proposal (30 points, group)
+**Assignment Due:** Group Strategy Proposal 2 — Derivatives Investment Strategy Proposal (30 points)
 
 ## Pre-class Reading
 

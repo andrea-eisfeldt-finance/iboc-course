@@ -37,15 +37,15 @@ This course prepares students to understand and manage investments in non-equity
 | Final Exam | 35% |
 | Participation | 5% |
 
-## Homework Assignments
+## Graded Assignments
 
-1. **HW1** (Due Week 3, 30 pts) — Bond pricing and risk attribution using real-world parameters
-2. **HW2** (Due Week 4, 30 pts) — Fixed income investment strategy proposal (group)
-3. **HW3** (Due Week 6, 30 pts) — Options and futures strategy payoffs and pricing using Bloomberg data
-4. **HW4** (Due Week 7, 30 pts) — Derivatives investment strategy proposal (group)
-5. **HW5** (Due Week 9, 30 pts) — FX parity relationships using OECD, Bloomberg, and Reuters data
-6. **HW6** (Due Week 10, 30 pts) — International investment strategy proposal (group)
-7. **Capstone Case** (Week 10, in-class) — Pershing Square's Pandemic Trade (A), HBS 9-222-007
+1. **Individual HW 1** (Due Week 3, 30 pts) — Bond pricing and risk attribution using real-world parameters
+2. **Group Strategy Proposal 1** (Due Week 4, 30 pts) — Fixed income investment strategy proposal
+3. **Individual HW 2** (Due Week 6, 30 pts) — Options and futures strategy payoffs and pricing using Bloomberg data
+4. **Group Strategy Proposal 2** (Due Week 7, 30 pts) — Derivatives investment strategy proposal
+5. **Individual HW 3** (Due Week 9, 30 pts) — FX parity relationships using OECD, Bloomberg, and Reuters data
+6. **Group Strategy Proposal 3** (Due Week 10, 30 pts) — International investment strategy proposal
+7. **Group Best Idea Presentation** (Week 10, in-class) — Groups present their choice for the best of their three strategy proposals
 
 ## Final Exam
 

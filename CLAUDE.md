@@ -17,9 +17,9 @@ Sister site to the FinTech course: https://andrea-eisfeldt-finance.github.io/fin
 ## Course Structure
 - 10 weeks, Thursdays 4:10-7pm PT
 - Three modules: Fixed Income (Weeks 1-3), Derivatives (Weeks 4-6), Currencies (Weeks 7-9), Capstone (Week 10)
-- 6 homework assignments (3 analytical individual, 3 group strategy proposals)
+- 6 graded assignments (3 Individual HWs, 3 Group Strategy Proposals)
+- Group Best Idea Presentation (Week 10) — groups present their best strategy proposal
 - Final exam in finals week
-- Capstone case: Pershing Square's Pandemic Trade (HBS)
 
 ## Content Style
 - Tone: polished, professional, academically rigorous — this is a top MBA program

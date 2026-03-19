@@ -9,7 +9,7 @@ nav_order: 6
 
 **Topics:** Short-dated options, buffered index strategies, digital options, event and quantitative option strategies
 
-**Assignment Due:** HW3 — Options & Futures Pricing (30 points, individual)
+**Assignment Due:** Individual HW 2 — Options & Futures Pricing (30 points)
 
 ## Pre-class Reading
 

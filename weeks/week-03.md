@@ -9,7 +9,7 @@ nav_order: 3
 
 **Topics:** Mortgage-backed securities, corporate bonds, conviction and quantitative fixed income strategies
 
-**Assignment Due:** HW1 — Bond Pricing & Risk Attribution (30 points, individual)
+**Assignment Due:** Individual HW 1 — Bond Pricing & Risk Attribution (30 points)
 
 ## Pre-class Reading
 

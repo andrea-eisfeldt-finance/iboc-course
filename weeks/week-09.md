@@ -9,7 +9,7 @@ nav_order: 9
 
 **Topics:** Carry trades, macro bets, currency and international investment strategies
 
-**Assignment Due:** HW5 — FX & Parity Relationships (30 points, individual)
+**Assignment Due:** Individual HW 3 — FX & Parity Relationships (30 points)
 
 ## Pre-class Reading
 
